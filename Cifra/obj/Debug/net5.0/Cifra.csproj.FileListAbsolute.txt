@@ -1,0 +1,16 @@
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.csproj.AssemblyReference.cache
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.AssemblyInfoInputs.cache
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.AssemblyInfo.cs
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.csproj.CoreCompileInputs.cache
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.exe
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.deps.json
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.runtimeconfig.json
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.runtimeconfig.dev.json
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.dll
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\ref\Cifra.dll
+D:\IFSP\SSII4\Cifra\bin\Debug\net5.0\Cifra.pdb
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.dll
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\ref\Cifra.dll
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.pdb
+D:\IFSP\SSII4\Cifra\obj\Debug\net5.0\Cifra.genruntimeconfig.cache
